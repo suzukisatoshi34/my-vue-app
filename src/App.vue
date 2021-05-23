@@ -2,9 +2,7 @@
   <div id="app">
     <div class="hello-wrold">
       <img alt="Vue logo" src="./assets/logo.png" />
-      <div class="hello-wrold__message">
-        {{ message }}
-      </div>
+      <div class="hello-wrold__message">{{ message }}vs codeで変更</div>
     </div>
   </div>
 </template>
